@@ -6,7 +6,7 @@ Weekly Release Monitor
 
 ## In just a sentence or two, summarize your project. (E.g., "A website that lets you buy and sell stocks.")
 
-A discord bot that uses a single command to print out the weekly releases for limited sneakers that will have resale value.
+A discord bot that uses a single command to print out the weekly releases for limited edition sneakers that will have resale value.
 
 ## In a paragraph or more, detail your project. What will your software do? What features will it have? How will it be executed?
 
