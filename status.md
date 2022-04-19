@@ -30,8 +30,7 @@ the library has to offer.
 
 The basis of the project has not been done yet, I need to write code so that when a user inputs a command (in any channel), the bot will
 produce a list of the upcoming sneaker releases for the week. Also, I have to do some more research on how to connect the bot
-to an external site in order to scrape information to update the bot automatically, but that is not of utmost importance right now, I just
-need to get the bot working with user commands first.
+to an external site in order to scrape information to update the bot automatically. But that is just something extra to worry about if I have time, for right now I just need to get the simple idea of the bot working with user commands first.
 
 #### What problems, if any, have you encountered?
 
