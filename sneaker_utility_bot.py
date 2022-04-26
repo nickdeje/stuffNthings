@@ -3,7 +3,7 @@ import time
 #TITLE : Discord Sneaker Resell Utility Bot
 #NAME : Nicolas De Jesus
 #YEAR: 2
-TOKEN = 'OTY4Mjg2ODEyNzM5MDc2MjE2.YmcpXg.H0uUbxHu9R_6QMQ2bjILSPessyw' #authorization key for bot to perform functions
+TOKEN = 'TOKEN' #authorization key for bot to perform functions
 
 client = discord.Client()
 @client.event
